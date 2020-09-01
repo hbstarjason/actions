@@ -8,3 +8,8 @@ jobs:
     steps:
     - name: SSH connection to Actions
       uses: P3TERX/debugger-action@master
+
+# https://p3terx.com/archives/ssh-to-the-github-actions-virtual-server-environment.html
+# https://github.com/P3TERX/debugger-action
+
+# https://mp.weixin.qq.com/s/KmnDaGeoKuG2j1LZNRfucA
